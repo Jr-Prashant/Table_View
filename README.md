@@ -12,7 +12,7 @@ https://github.com/Jr-Prashant/Table_View/assets/151605109/d9657c29-b874-4d07-b4
 <img width="320" alt="Screenshot 2023-11-22 at 4 49 23 PM" src="https://github.com/Jr-Prashant/Table_View/assets/151605109/bf04f3f2-f9cd-4121-9928-99b8f08a5708">
 
 ## Overview
-<p> It is the simple app where user name will shown in table and in next screen details of users will shown like as USer id, Name, Address, Mobile no. </p>
+<p> It is the simple app where user name will shown in table and in next screen details of users will shown like as User id, Name, Address, Mobile no. </p>
 
 ## Technology Used
 1. `Objective-C` Programming Langusge.
